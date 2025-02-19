@@ -1,6 +1,0 @@
-services:
-  app:
-    env: production
-    dockerfile: Dockerfile
-    envFiles:
-      - railway.env
